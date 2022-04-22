@@ -1,5 +1,5 @@
 # ARMv7A-BareBones
-ARMv7-A Bare Bones example
+ARMv7-A Bare Bone examples
 
 ## Resources
 - [Tutorials & examples for Arm software development tools](https://github.com/ARM-software/Tool-Solutions)
